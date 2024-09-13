@@ -49,6 +49,7 @@ Start the Flask server and run the Streamlit application:
   ```
 
 **Usage**
+
 Chat Interface: Use the Streamlit UI to ask questions and receive answers.
 Suggestions: Select topics from the suggestions dropdown to get relevant information.
 Contributing
