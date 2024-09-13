@@ -43,12 +43,10 @@
    pip install -r requirements.txt
 
 **Running the Application**
-1. Start the Flask server and run the Streamlit application:
+Start the Flask server and run the Streamlit application:
 
    ```bash
-   python app.py
-
-2. Open your browser and go to http://localhost:8501 to interact with the chatbot.
+   streamlit run app.py
 
 ----------------------------------------------------------------------------------------
 

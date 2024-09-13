@@ -1,6 +1,5 @@
 openai
 flask
 python-dotenv
-os
 streamlit
 requests
