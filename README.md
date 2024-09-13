@@ -60,5 +60,7 @@ Feel free to open issues or submit pull requests if you have suggestions or impr
 
 
 **Acknowledgments**
+
 OpenAI for providing the GPT-4o-mini model.
+
 Streamlit and Flask for the frameworks used in this project.
