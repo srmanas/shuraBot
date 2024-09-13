@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Sekiro Chatbot** is a local chatbot designed to assist players of *Sekiro: Shadows Die Twice*. Using OpenAI's GPT-4o-mini model, it provides detailed responses on various aspects of the game, including mechanics, lore, combat strategies, and technical issues. The project is built with Flask for the backend API and Streamlit for the user interface.
+**ShuraBot** is a local chatbot designed to assist players of *Sekiro: Shadows Die Twice*. Using OpenAI's GPT-4o-mini model, it provides detailed responses on various aspects of the game, including mechanics, lore, combat strategies, and technical issues. The project is built with Flask for the backend API and Streamlit for the user interface.
 
 ## Features
 
@@ -24,7 +24,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/sekiro-chatbot.git
+   git clone https://github.com/srmanas/shuraBot.git
 
 2. Navigate to the project directory:
 
