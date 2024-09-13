@@ -44,18 +44,15 @@
 
 **Running the Application**
 Start the Flask server and run the Streamlit application:
-
-   ```bash
-   streamlit run app.py
-
-----------------------------------------------------------------------------------------
+  ```bash
+  streamlit run app.py
+  ```
 
 **Usage**
 Chat Interface: Use the Streamlit UI to ask questions and receive answers.
 Suggestions: Select topics from the suggestions dropdown to get relevant information.
 Contributing
 Feel free to open issues or submit pull requests if you have suggestions or improvements.
-
 
 **Acknowledgments**
 
