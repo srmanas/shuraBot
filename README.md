@@ -53,7 +53,7 @@ Start the Flask server and run the Streamlit application:
 Chat Interface: Use the Streamlit UI to ask questions and receive answers.
 Suggestions: Select topics from the suggestions dropdown to get relevant information.
 Contributing
-Feel free to open issues or submit pull requests if you have suggestions or improvements.
+Feel free to customise your own personalized chatbot with prompt engineering. Feel free to issues or submit pull requests if you have suggestions or improvements.
 
 **Acknowledgments**
 
